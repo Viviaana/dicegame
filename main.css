@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Fredoka+One|Saira+Semi+Condensed&display=swap');
 
 body {
-    background-image: url("img/background.jpeg") ;
+    background-image: url("img/background2.jpeg") ;
     background-size: cover;
 }
 h1 {
@@ -22,7 +22,7 @@ h2, h3{
     margin-right: 400px;
     border: 1px solid black;
     padding: 10px;
-    background-color: rgba(255,255,255,0.3);
+    background-color: rgba(255,255,255,0.5);
 }
 
 #button {
